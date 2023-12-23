@@ -1,6 +1,6 @@
 ## Layer2-20
 
-> Layer2-20, based on the Orbiter Inscription Cross-Rollup Protocol, has creatively defined Ethereum's Omni-inscription style. This enables developers to create and configure unified rollup inscriptions, truly unlocking the future potential of the inscription market, and spearheading the inscription revolution.
+> Layer2-20, the first based on the [Orbiter Inscription Cross-Rollup Protocol](https://github.com/Orbiter-Finance/client-monorepo/blob/inscription-protocol/README.md), has creatively defined Ethereum's Omni-inscription style. This enables developers to create and configure unified rollup inscriptions, truly unlocking the future potential of the inscription market, and spearheading the inscription revolution.
 > 
 
 ### Key function
